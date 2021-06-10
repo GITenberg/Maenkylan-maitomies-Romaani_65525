@@ -1,0 +1,33 @@
+_repo: Maenkylan-maitomies-Romaani_65525
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Patajoki, Selma
+    gutenberg_agent_id: '49445'
+    url: http://www.gutenberg.org/2009/agents/49445
+creator:
+  author:
+    agent_name: Vilde, Eduard
+    alias: Wilde, Eduard
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '49853'
+    url: http://www.gutenberg.org/2009/agents/49853
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eduard_Vilde
+    - https://fi.wikipedia.org/wiki/Eduard_Vilde
+description: ''
+gutenberg_issued: '2021-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65525'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mäenkylän maitomies
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/65525
