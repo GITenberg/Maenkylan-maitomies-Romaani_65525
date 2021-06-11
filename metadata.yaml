@@ -5,6 +5,9 @@ contributor:
     agent_name: Patajoki, Selma
     gutenberg_agent_id: '49445'
     url: http://www.gutenberg.org/2009/agents/49445
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vilde, Eduard
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eduard_Vilde
     - https://fi.wikipedia.org/wiki/Eduard_Vilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65525#Maenkylan-maitomies-Romaani
 gutenberg_issued: '2021-06-06'
 gutenberg_type: Text
 identifiers:
